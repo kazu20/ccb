@@ -10,6 +10,11 @@
 
 Golanでコンパイルするだけ.
 
+``` bash
+$ go build ccb.go
+$ ./ccb
+```
+
 ## 止めたくなったら
 
 Ctrl + c で止まる.
