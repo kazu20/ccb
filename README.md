@@ -8,7 +8,7 @@
 
 ## 使い方
 
-Golanでコンパイルするだけ.
+Golangでコンパイルするだけ.
 
 ``` bash
 $ go build ccb.go
